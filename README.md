@@ -1,108 +1,218 @@
-<h1 align="center"><b>Hi, I'm Eloy López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Hi, I'm Eloy López</h1>
 
-<h3 align="center">Técnico en Sistemas Microinformáticos y Redes | Especializándome en ASIR y Ciberseguridad</h3>
+<p align="center">
+  <b>Systems Administration & Cybersecurity</b> 🖥️🔐
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ASIR+Graduate;Systems+%26+Network+Administration;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-## 👨‍💻 Sobre mí
+---
 
-Me considero una persona curiosa, con facilidad para resolver problemas técnicos y con ganas de aprender constantemente[cite: 1]. Me gusta aprender haciendo, buscar soluciones prácticas y mejorar los procesos para que sean más eficientes y seguros[cite: 1]. 
+## 🧑‍💻 About Me
 
-- 🎓 Estudio el **Grado Superior en Administración de Sistemas Informáticos en red aplicados a ciberseguridad** (2024-2026)[cite: 1].
-- 💼 Tengo experiencia en **Edge Computing, sensórica industrial (MQTT)** y administración de bases de datos para análisis en tiempo real[cite: 1].
-- 🔍 Realizo auditorías de seguridad cubriendo fases de **reconocimiento, escaneo y explotación** (OSINT, Nmap, Wireshark)[cite: 2].
-- 🌱 Actualmente profundizando en **hacking ético, automatización y virtualización**[cite: 2].
-- ⚡ **Fun fact:** Voy más allá de lo aprendido en clase y aprendo por mi cuenta hasta alcanzar los objetivos[cite: 1].
+I'm a **Systems Administration and Cybersecurity graduate (ASIR)** from Barcelona, Spain.
 
-<br>
+I enjoy working with **Linux and Windows systems, networks, cybersecurity and infrastructure**, while also exploring programming and automation.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>My Skills</b><br>
+I'm especially interested in understanding how systems work, solving technical problems and learning new technologies through practical projects.
 
-<div align="center">
+Currently, I'm looking to **grow professionally in the IT field, gain real-world experience and continue developing my skills in systems, networking and cybersecurity.**
 
-  <h3>Lenguajes de Programación y Scripting</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell" alt="PowerShell">
-    <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" alt="SQL">
-  </p>
+* 🎓 ASIR — Administration of Computer Systems in Network
+* 🔐 Specialization in Cybersecurity
+* 🖥️ Focused on Systems Administration & Networking
+* 🐧 Comfortable working with Linux and Windows environments
+* 🌱 Always learning and improving
+* 📍 Barcelona, Spain
 
-  <h3>Librerías y Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs" alt="Node.js">
-    <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express" alt="Express.js">
-    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" alt="Pandas">
-    <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=python" alt="Matplotlib">
-  </p>
+---
 
-  <h3>Lenguajes de Marcas y Estilos</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-    <img src="https://img.shields.io/badge/-XML-05122A?style=flat&logo=xml" alt="XML">
-    <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown">
-  </p>
+## 🛠️ Technical Skills
 
-  <h3>Bases de Datos</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL">
-    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB">
-    <img src="https://img.shields.io/badge/-phpMyAdmin-05122A?style=flat&logo=phpmyadmin" alt="phpMyAdmin">
-  </p>
+### 💻 Programming & Scripting
 
-  <h3>Sistemas Operativos y Virtualización</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows" alt="Windows">
-    <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux">
-    <img src="https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware" alt="VMware">
-    <img src="https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox" alt="VirtualBox">
-    <img src="https://img.shields.io/badge/-LXC-05122A?style=flat&logo=linuxcontainers" alt="LXC">
-    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker">
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE">
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=mysql&logoColor=4479A1">
+</p>
 
-  <h3>Herramientas, Redes y Ciberseguridad</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=kalilinux" alt="Nmap">
-    <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark" alt="Wireshark">
-    <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana" alt="Grafana">
-    <img src="https://img.shields.io/badge/-Node--RED-05122A?style=flat&logo=nodered" alt="Node-RED">
-    <img src="https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache" alt="Apache">
-    <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress" alt="WordPress">
-    <img src="https://img.shields.io/badge/-Packet_Tracer-05122A?style=flat&logo=cisco" alt="Packet Tracer">
-  </p>
+### 🌐 Web & Data
 
-  <h3>Entornos de Desarrollo (IDE) y Control de Versiones</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code">
-    <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter" alt="Jupyter Notebook">
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/XML-05122A?style=flat&logo=xml">
+  <img src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas&logoColor=150458">
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/phpMyAdmin-05122A?style=flat&logo=phpmyadmin&logoColor=6C78AF">
+</p>
 
-</div><br>
+### 🖥️ Systems & Virtualization
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p>
+  <img src="https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=0078D6">
+  <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=FCC624">
+  <img src="https://img.shields.io/badge/VMware-05122A?style=flat&logo=vmware&logoColor=607078">
+  <img src="https://img.shields.io/badge/VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=183A61">
+  <img src="https://img.shields.io/badge/LXC-05122A?style=flat&logo=linuxcontainers&logoColor=2496ED">
+</p>
+
+**Experience with:**
+
+* Windows and Linux administration
+* User, permissions and security policy management
+* Virtualization and lightweight containers
+* System configuration and troubleshooting
+
+### 🌐 Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-05122A?style=flat&logo=cisco&logoColor=1BA0D7">
+  <img src="https://img.shields.io/badge/Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7">
+  <img src="https://img.shields.io/badge/Nmap-05122A?style=flat&logo=nmap">
+</p>
+
+**Networking knowledge:**
+
+`TCP/IP` · `VLANs` · `DNS` · `DHCP` · `FTP` · `HTTP/S` · `SSH`
+
+`RIP` · `OSPF` · `HSRP` · `Firewalls` · `Network Troubleshooting`
+
+### 🔐 Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-05122A?style=flat&logo=kalilinux">
+  <img src="https://img.shields.io/badge/Wireshark-05122A?style=flat&logo=wireshark">
+  <img src="https://img.shields.io/badge/Shodan-05122A?style=flat&logo=shodan">
+</p>
+
+**Areas I've worked with:**
+
+* 🔎 Reconnaissance and network scanning
+* 🛡️ Basic security auditing
+* 🌐 Network traffic analysis
+* 🔍 OSINT techniques
+* 🧪 Ethical hacking fundamentals
+* 🔥 Basic firewall configuration
+
+---
+
+## 🚀 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/Grafana-05122A?style=flat&logo=grafana&logoColor=F46800">
+  <img src="https://img.shields.io/badge/Node--RED-05122A?style=flat&logo=nodered&logoColor=8F0000">
+  <img src="https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache&logoColor=D22128">
+  <img src="https://img.shields.io/badge/WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B">
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🖥️ Enterprise IT Infrastructure Simulation
+
+A complete academic simulation of an enterprise IT environment including:
+
+* Windows/Linux servers
+* Domain and network configuration
+* Network services
+* Web services
+* Security configuration
+* Virtualized infrastructure
+
+### 🌐 Network Simulation with Packet Tracer
+
+Designed and configured local networks simulating enterprise environments, working with VLANs, routing, network services and troubleshooting.
+
+### 🐍 Data Analysis with Python
+
+Developed Python scripts using **Pandas** to clean, normalize and process large datasets, preparing the information for further analysis and visualization.
+
+### 📊 Industrial Edge Computing
+
+During my professional training at **Zentinel Machine Data Solutions**, I worked with industrial data and Edge Computing solutions using **MQTT**, **Grafana**, **MySQL** and **Node-RED**.
+
+---
+
+## 💼 Professional Experience
+
+**Zentinel Machine Data Solutions**
+*Technical Intern — 2025–2026*
+
+Worked on industrial Edge Computing and sensor solutions focused on production data and OEE optimization.
+
+`MQTT` · `Grafana` · `MySQL` · `Node-RED` · `Networking`
+
+**Escola Montserrat**
+*IT Support Intern — 2023–2024*
+
+Worked on technical incidents, hardware and software configuration, and website administration.
+
+---
+
+## 🎓 Education
+
+**Higher Technician in Administration of Computer Systems in Network (ASIR)**
+*Specialization in Cybersecurity*
+Institut Esteve Terradas i Illa · 2024–2026
+
+**Technician in Microcomputer Systems and Networks (SMX)**
+Institut Esteve Terradas i Illa · 2022–2024
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently focused on improving my knowledge in:
+
+* 🐧 Linux administration
+* 🌐 Networking
+* 🔐 Cybersecurity
+* ⚙️ Automation and scripting
+* ☁️ Infrastructure and cloud technologies
+* 📦 Containers and DevOps tools
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
 
-<br>
-
-## 📫 Contacto
-
-<div align="center">
-  <a href="mailto:eloyrex8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:eloyrex8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail&logoColor=EA4335">
+  </a>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning by doing, solving problems and building better systems."</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
