@@ -188,7 +188,7 @@ I'm currently focused on improving my knowledge in:
   <a href="mailto:eloyrex8@gmail.com">
     <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail&logoColor=EA4335">
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/eloyrx">
     <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF">
   </a>
 </p>
