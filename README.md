@@ -1,5 +1,21 @@
 <h1 align="center"><b>Hi, I'm Eloy López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h3 align="center">Técnico en Sistemas Microinformáticos y Redes | Especializándome en ASIR y Ciberseguridad</h3>
+
+<br>
+
+## 👨‍💻 Sobre mí
+
+Me considero una persona curiosa, con facilidad para resolver problemas técnicos y con ganas de aprender constantemente[cite: 1]. Me gusta aprender haciendo, buscar soluciones prácticas y mejorar los procesos para que sean más eficientes y seguros[cite: 1]. 
+
+- 🎓 Estudio el **Grado Superior en Administración de Sistemas Informáticos en red aplicados a ciberseguridad** (2024-2026)[cite: 1].
+- 💼 Tengo experiencia en **Edge Computing, sensórica industrial (MQTT)** y administración de bases de datos para análisis en tiempo real[cite: 1].
+- 🔍 Realizo auditorías de seguridad cubriendo fases de **reconocimiento, escaneo y explotación** (OSINT, Nmap, Wireshark)[cite: 2].
+- 🌱 Actualmente profundizando en **hacking ético, automatización y virtualización**[cite: 2].
+- ⚡ **Fun fact:** Voy más allá de lo aprendido en clase y aprendo por mi cuenta hasta alcanzar los objetivos[cite: 1].
+
+<br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>My Skills</b><br>
 
 <div align="center">
@@ -67,6 +83,26 @@
 
 </div><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 📫 Contacto
+
+<div align="center">
+  <a href="mailto:eloyrex8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
